@@ -12,7 +12,7 @@ This is an small app based on ChatGPT and deployed with Streamlit. The repo also
 ## How to run it
 
 * Start by cloning the repository:
-  `git clone https://github.com/AbuKashan/voice_assistant_with_streamlit.git`
+  `git clone https://github.com/ravi3573/Personalized-Voice-Assistant.git`
 * Create virtual environement using `virtualenv voice_assistant_env`
 * Activate virtual environment `voice_assistant_env\Scripts\activate  `
 * Install requirements by running ` pip install -r requirements.txt`
